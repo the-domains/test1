@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Test1]]></title>
         <description><![CDATA[Test1]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/test1/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 19 Oct 2015 21:46:26 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 19 Oct 2015 21:46:40 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/test1/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>My Home</p>]]></description>
+            <link>https://thegrid.ai/test1/44eff06e-40a6-4b5d-bfa0-4e88144f44a2/index.html</link>
+            <guid isPermaLink="false">44eff06e-40a6-4b5d-bfa0-4e88144f44a2</guid>
+            <pubDate>Mon, 19 Oct 2015 21:45:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Llama Lake]]></title>
             <description><![CDATA[<article><h1>Llama Lake</h1><img src="https://images.unsplash.com/photo-1443479579455-1860f114bf77?fit=crop&fm=jpg&h=1000&q=80&w=1925"></article>]]></description>
-            <link>undefinedllama-lake/index.html</link>
+            <link>https://thegrid.ai/test1/llama-lake/index.html</link>
             <guid isPermaLink="false">416be9e6-7eb2-45a9-852f-fbe7700ffacb</guid>
             <pubDate>Mon, 19 Oct 2015 21:45:55 GMT</pubDate>
         </item>

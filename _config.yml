@@ -1,7 +1,8 @@
-name: null
+name: Test1
 favicon: null
 layout_spectrum: 0.26026868214830756
 typography_spectrum: 0.04119660332798958
+title: The Best Place for LLamas
 cta:
   domain: null
   bucket: null

@@ -1,24 +1,24 @@
 ---
 inFeed: true
-hasPage: true
-inNav: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://unsplash.com/photos/Fma1wE_zIf8'
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2015-10-19T21:57:45.770Z'
-dateModified: '2015-10-19T21:51:53.467Z'
+description: 'This place rocks!!  Just ask the llama!!  Only one problem - no berries here.... :-('
+datePublished: '2015-10-19T22:16:36.614Z'
+dateModified: '2015-10-19T22:16:30.596Z'
 author: []
 title: Llama Lake
+sourcePath: _posts/2015-10-19-llama-lake.md
+published: true
 authors: []
 publisher:
   name: unsplash.com
   domain: unsplash.com
   url: null
   favicon: null
-sourcePath: _posts/2015-10-19-llama-lake.md
-published: true
-url: llama-lake/index.html
 _context: 'http://schema.org'
 _type: Article
 
